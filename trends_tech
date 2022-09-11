@@ -1,0 +1,11 @@
+all require downtrend (say at least 2/3)
+
+hammer _> (open-low) >= (close-open) , (high - close) -> negligible value (2-5%)
+
+inverse hammer _> (high - close) >= (close - open) , (open-low) -> negligible value (2-5%)
+
+bullish engulf _> bearish -> bullish, open2 < close1, close2 > open1
+
+piercing line _> bearish -> bullish, open2 < close1, close2 = open1 * 0.5-0.66
+
+3 soliders -> bullish -> bearish -> bearish -> bearish

@@ -1,0 +1,34 @@
+{
+ "tradeable": [
+  "cardano",
+  "vechain",
+  "decentraland",
+  "the-sandbox",
+  "solana",
+  "ripple",
+  "polkadot",
+  "the-graph",
+  "ethereum",
+  "bitcoin",
+  "binancecoin",
+  "dogecoin",
+  "avalanche-2",
+  "chainlink",
+  "algorand",
+  "uniswap",
+  "axie-infinity",
+  "dai",
+  "elrond-erd-2",
+  "tron"
+ ],
+ "just-watch": [],
+ "top": [
+  "terra-luna",
+  "terra-luna-2",
+  "dogechain",
+  "evmos",
+  "kujira",
+  "cosmos",
+  "bonfida"
+ ]
+}
